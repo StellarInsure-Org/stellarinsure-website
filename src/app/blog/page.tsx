@@ -1,0 +1,1 @@
+export default function Page(){return(<div className='pt-20 p-6 max-w-3xl mx-auto text-center'><h1 className='text-3xl font-semibold'>Blog</h1><p className='text-muted-foreground mt-4 text-lg'>Coming soon. Stay tuned for parametric insurance guides, risk pool strategies, and oracle integration tutorials.</p></div>)}
