@@ -30,7 +30,7 @@ export default function Navbar() {
           ))}
         </div>
         <div className="hidden items-center gap-2 md:flex">
-          <Button render={<Link href="#" />} nativeButton={false}>Launch App</Button>
+          <Button render={<Link href="https://stellarinsure-frontend.vercel.app" />} nativeButton={false}>Launch App</Button>
         </div>
         <Sheet>
           <SheetTrigger className="md:hidden"><Button variant="ghost" size="icon"><Menu /></Button></SheetTrigger>
