@@ -22,7 +22,7 @@ export default function HeroSection() {
                     </p>
                 </div>
                 <div className="flex flex-wrap justify-center gap-3">
-                    <Button size="lg" render={<Link href="https://stellarinsure-frontend.vercel.app" />} nativeButton={false}>
+                    <Button size="lg" render={<Link href="https://stellarinsure-app.vercel.app" />} nativeButton={false}>
                         Launch App <ArrowRight data-icon="inline-end" />
                     </Button>
                     <Button size="lg" variant="outline" render={<Link href="https://github.com/StellarInsure-Org" />} nativeButton={false}>
